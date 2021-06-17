@@ -753,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #443a1eb3;
     padding: 40px 40px 40px 40px;
 }
 
@@ -771,7 +771,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #0e0500;
 }
 
 .tc-white {
@@ -779,7 +779,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #0e0500;
     color: #FFFFFF!important;
 }
 
@@ -809,9 +809,7 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
-    background-image: url("img/dots-bg.png");
-}
+
 
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
@@ -832,7 +830,7 @@ h4 {
 }
 
 footer {
-    background-color: #060200 !important;
+    background-color: #0e0500 !important;
 }
 
 /* end of new tags and classes*/
