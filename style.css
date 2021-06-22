@@ -264,6 +264,10 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
+.bgc-dark-slate-blue {
+    background-color: #364577;
+}
+
 .voffset {
     margin-top: 30px;
 }
