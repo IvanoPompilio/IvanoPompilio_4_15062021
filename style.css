@@ -1033,6 +1033,10 @@ footer {
         width: 180px;
         height: 320px;
     }
+
+    .cta-equipe {
+        font-size: 12px !important;
+    }
 }
 
 @media (max-width: 400px) {
