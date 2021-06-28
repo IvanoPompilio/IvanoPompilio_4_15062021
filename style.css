@@ -836,6 +836,11 @@ footer {
     background-color: #0e0500 !important;
 }
 
+img {
+    width: 100%; /* or max-width: 100%; */
+    height: auto;
+  }
+
 /* end of new tags and classes*/
 
 
